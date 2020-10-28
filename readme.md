@@ -1,1 +1,2 @@
-ECHO ¤w±Ò°Ê¡C
+ECHO
+jojo
